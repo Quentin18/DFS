@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "importgraph.h": "c",
-        "stdlib.h": "c",
-        "structgraph.h": "c",
-        "connexegraph.h": "c",
-        "cfcgraph.h": "c"
-    }
-}
